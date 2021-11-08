@@ -1,0 +1,6 @@
+﻿https://designer.mocky.io
+https://run.mocky.io/v3/d2a7d999-4d2e-4a95-ad0d-6f74f2ab8050
+
+{
+   "Access-Control-Allow-Origin": "*"
+}
